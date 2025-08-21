@@ -31,9 +31,9 @@
 Así se ven las notificaciones en Telegram:
 
 <p align="center">
-  <img src="docs/demo1.jpg" alt="Ejemplo 1" width="45%"/>
+  <img src="docs/IMG_2842.jpeg" alt="Ejemplo 1" width="45%"/>
   &nbsp;
-  <img src="docs/demo2.jpg" alt="Ejemplo 2" width="45%"/>
+  <img src="docs/IMG_2843.jpeg" alt="Ejemplo 2" width="45%"/>
 </p>
 
 ---
